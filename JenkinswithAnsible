@@ -45,6 +45,6 @@ stage('DeployApp'){
   
   
 }//Stages Closing
-
+ clean package  dke  nne
 }
 cloded -- closed 
